@@ -22,6 +22,7 @@ Da biste pokrenuli kod, potrebno je da imate instaliran **Python** i sledeće pa
 1️) Klonirajte repozitorijum:
 **git clone <https://github.com/paralelniAlgoritmi/Paralelni-Primov-Algoritam.git>**
 cd <Paralelni-Primov-Algoritam>
+
 2️) Pokrenite skriptu:
 **python PrimovAlg.py**
 Kod će generisati slučajan graf i izvršiti sekvencijalni i GPU paralelizovani Primov algoritam. Na kraju će prikazati vrijeme izvršavanja i broj grana u MST.
