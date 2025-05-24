@@ -21,7 +21,7 @@ Da biste pokrenuli kod, potrebno je da imate instaliran **Python** i sledeće pa
 ## Pokretanje Koda
 1️) Klonirajte repozitorijum:
 **git clone <https://github.com/paralelniAlgoritmi/Paralelni-Primov-Algoritam.git>**
-**cd <Paralelni-Primov-Algoritam>**
+**cd Paralelni-Primov-Algoritam**
 
 2️) Pokrenite skriptu:
 **python PrimovAlg.py**
